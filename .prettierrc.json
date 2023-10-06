@@ -1,0 +1,17 @@
+{
+   "tabWidth": 2,
+   "singleQuote": true,
+   "trailingComma": "all",
+   "jsxSingleQuote": true,
+   "bracketSpacing": true,
+   "bracketSameLine": true,
+   "singleAttributePerLine": true,
+   "overrides": [
+      {
+        "files": "*.mdx",
+        "options": {
+          "printWidth": 70
+        }
+      }
+    ]
+}
